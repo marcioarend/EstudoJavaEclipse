@@ -14,6 +14,7 @@ public class Bicicleta {
 	}
 	public Bicicleta(String nome){
 		System.out.println(nome);
+		System.out.println(nome);
 	}
 	
 	public void setEstado(){
