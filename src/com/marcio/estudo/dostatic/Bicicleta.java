@@ -13,7 +13,7 @@ public class Bicicleta {
 		this.contador ++;
 	}
 	public Bicicleta(String nome){
-		
+		System.out.println(nome);
 	}
 	
 	public void setEstado(){
